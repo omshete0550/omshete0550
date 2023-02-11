@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **omshete2003@icloud.com**
 
-- ⚡ Fun fact **I like to watch movie a lot.**
+- ⚡ Fun fact **I like to watch movies a lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
