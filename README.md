@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center"> Hi 👋, I'm Om Shete </h1>
+<h3 align="justify">Experienced web developer proficient in HTML, CSS, JavaScript, and various web development frameworks. Skilled in creating responsive and user-friendly websites. Dedicated to staying up-to-date with the latest web development trends and technologies, and passionate about delivering high-quality work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omshete0550&label=Profile%20views&color=0e75b6&style=flat" alt="omshete0550" /> </p>
 
