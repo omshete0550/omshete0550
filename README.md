@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **omshete2003@icloud.com**
+- 📫 How to reach me **omshete0550@gmail.com**
 
 - ⚡ Fun fact **I like to watch movies a lot.**
 
