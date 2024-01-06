@@ -1,5 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Om Shete </h1>
-<h3 align="justify">As a passionate web developer, I am skilled in HTML, CSS, and JavaScript, and have experience with various web development frameworks. I am passionate about creating user-friendly and responsive websites, and am dedicated to staying up-to-date with the latest trends and technologies. I am eager to learn and gain hands-on experience in the field.</h3>
+<h3 align="justify">
+I am a highly passionate and skilled web developer with a strong focus on creating user-friendly web applications using modern technologies and frameworks. I am dedicated to staying up-to-date with the latest trends and technologies, constantly seeking to expand my knowledge and contribute to the seamless user experience. Through building real-life projects, I have developed proficiency in multiple tech stacks, and my eagerness to learn drives me to explore new frameworks and technologies that enhance overall web development.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omshete0550&label=Profile%20views&color=0e75b6&style=flat" alt="omshete0550" /> </p>
 
