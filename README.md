@@ -8,9 +8,9 @@ Passionate and dynamic Web Developer with a proven track record in the tech indu
 - ⚡ Fun fact: I like to watch movies a lot. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/omshete0550)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/om-shete-25748522a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/omshete0550)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-om-shete.vercel.app/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omshete0550)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn-icons-png.flaticon.com/512/25/25231.png' alt='github' height='40'>](https://github.com/omshete0550)  [<img src='https://freelogopng.com/images/all_img/1656996409linkedin-symbol.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/om-shete-25748522a//)  [<img src='https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/omshete0550)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ICloud_logo.svg/2560px-ICloud_logo.svg.png' alt='website' height='40'>](https://portfolio-om-shete.vercel.app/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=omshete0550&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=omshete0550)  
 
