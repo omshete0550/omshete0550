@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Om Shete </h1>
 <h3 align="justify">
-I am a highly passionate and skilled web developer with a strong focus on creating user-friendly web applications using modern technologies and frameworks. I am dedicated to staying up-to-date with the latest trends and technologies, constantly seeking to expand my knowledge and contribute to the seamless user experience. Through building real-life projects, I have developed proficiency in multiple tech stacks, and my eagerness to learn drives me to explore new frameworks and technologies that enhance overall web development.
+Passionate and dynamic Web Developer with a proven track record in the tech industry, boasting a comprehensive skill set honed through a Bachelor's in Computer Engineering at Thadomal Shahani Engineering College. Currently navigating the exciting journey from academia to industry, I am set to graduate in June 2025.
 </h3>
 
 - 💬 Ask me about **Frontend Development**
