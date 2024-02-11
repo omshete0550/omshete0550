@@ -20,7 +20,4 @@ Passionate and dynamic Web Developer with a proven track record in the tech indu
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=omshete0550&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=omshete0550)  
 
