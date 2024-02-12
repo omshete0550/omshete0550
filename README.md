@@ -10,7 +10,7 @@ Passionate and dynamic Web Developer with a proven track record in the tech indu
 
 <br />
 
-- 🤔 I’m looking for help with omshete0550@gmail.com 
+- 📫 How to reach me omshete0550@gmail.com 
 - 💬 Ask me about Frontend Development 
 - ⚡ Fun fact: I like to watch movies a lot. 
 
