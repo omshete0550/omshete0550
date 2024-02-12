@@ -16,7 +16,7 @@ Passionate and dynamic Web Developer with a proven track record in the tech indu
 
 <br />
 
-[<img src='https://cdn-icons-png.flaticon.com/512/25/25231.png' alt='github' height='40'>](https://github.com/omshete0550)  [<img src='https://freelogopng.com/images/all_img/1656996409linkedin-symbol.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/om-shete-25748522a//)  [<img src='https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/omshete0550)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ICloud_logo.svg/2560px-ICloud_logo.svg.png' alt='website' height='40'>](https://portfolio-om-shete.vercel.app/)  
+ [<img src='https://freelogopng.com/images/all_img/1656996409linkedin-symbol.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/om-shete-25748522a//)  [<img src='https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/omshete0550)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ICloud_logo.svg/2560px-ICloud_logo.svg.png' alt='website' height='40'>](https://portfolio-om-shete.vercel.app/)  
 
 <br />
 
