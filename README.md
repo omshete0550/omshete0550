@@ -10,10 +10,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=omshete0550.omshete0550&"  />
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
