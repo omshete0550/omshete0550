@@ -18,15 +18,6 @@
 
 ---
 
-### Tech Stack
-
-Frontend: React • Vite • Tailwind • Flutter <br>
-Backend: Spring Boot • Node.js • Express <br>
-Database: MongoDB • Redis <br>
-Tools: Git • Docker • Postman • Render <br>
-
----
-
 ### 🌐 Connect With Me
 
 📫 [omshete0550@gmail.com](mailto:omshete0550@gmail.com)
