@@ -9,16 +9,16 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-* 🚀 Passionate about building scalable and impactful products
-* 💻 Working with React, Spring Boot, Node.js & MongoDB
-* 🤝 Love collaborating on innovative ideas
-* 🎯 Exploring system design, backend architecture & AI integrations
+* Passionate about building scalable and impactful products
+* Working with React, Spring Boot, Node.js & MongoDB
+* Love collaborating on innovative ideas
+* Exploring system design, backend architecture & AI integrations
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 Frontend: React • Vite • Tailwind • Flutter <br>
 Backend: Spring Boot • Node.js • Express <br>
