@@ -2,9 +2,7 @@
 
 # Hi there 👋 I'm Om Shete
 
-🚀 Full Stack Developer from India <br>
-💻 Building real-world products with **React, Spring Boot, Node.js & MongoDB**
-
+Full Stack Developer | React • Spring Boot • Node.js | Building scalable web products
   
 
 ---
