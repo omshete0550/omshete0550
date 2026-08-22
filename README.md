@@ -1,3 +1,6 @@
+<img width="1200" height="480" alt="Black Elegeance Modern Offline Twitch Banner" src="https://github.com/user-attachments/assets/583dcffe-4e7a-450d-b396-49741619b936" />
+
+
 <h1 align="center">Om Shete</h1>
 <h3 align="center">Software Developer</h3>
 
@@ -13,18 +16,23 @@ Software Developer at Oracle. I build software products and enjoy exploring new 
 
 ---
 
-### About Me
+<details>
+<summary>About Me</summary>
 
 - Comfortable working across the stack, from database design to UI implementation
 - Exploring machine learning and its practical applications in software products
 - Currently deepening knowledge of system design and cloud infrastructure
 
+</details>
+
 ---
 
-### Education
+<details>
+<summary>Education</summary>
 
 **Bachelor of Engineering (B.E.) in Computer Engineering**
 TSEC | Mumbai University — *Graduated 2025*
+</details>
 
 ---
 
