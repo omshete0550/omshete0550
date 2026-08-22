@@ -1,7 +1,5 @@
 <img width="1200" height="480" alt="Black Elegeance Modern Offline Twitch Banner" src="https://github.com/user-attachments/assets/583dcffe-4e7a-450d-b396-49741619b936" />
 
-
-<h1 align="center">Om Shete</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
