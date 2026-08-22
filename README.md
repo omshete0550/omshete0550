@@ -28,14 +28,4 @@ TSEC | Mumbai University — *Graduated 2025*
 
 ---
 
-### Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/omshete0550"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://om-shete.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:omshete0550@gmail.com.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
 <p align="center"><i>Thanks for stopping by - always open to connecting, collaborating, or discussing interesting problems.</i></p>
